@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application_uninstaller</string>
+    <string name="install">Install</string>
+    <string name="Uninstall">Uninstall</string>
+    <string name="admob_app_id">ca-app-pub-1388894897849772~8613791611</string>
+    <string name="admob_banner_ad">ca-app-pub-1388894897849772/6917566560</string>
+</resources>
